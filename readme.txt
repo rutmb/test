@@ -1,2 +1,2 @@
-rirst readme.txt
+first readme.txt
 in the commit
